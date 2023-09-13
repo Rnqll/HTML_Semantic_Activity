@@ -8,15 +8,24 @@
 }
 
 a{
-    color: rgb(240, 53, 62) !important ; 
+    color: rgb(231, 22, 19) !important ; 
+    font-size: larger;
 }
 
 h1 {
     
     flex: auto;
     text-align: center;
-    background-color: black;
+    background-color: rgb(102, 16, 16);
     border: 15px solid yellow;
     
+    
+}
+span{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 50px;
+    padding: 5px;
+    margin-top: 100px;
     
 }
